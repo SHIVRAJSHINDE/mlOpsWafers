@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/2c32dee8c27b4eda9eede69b09d3c361/artifacts
+end_time: 1701873251409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c32dee8c27b4eda9eede69b09d3c361
+run_name: popular-hog-470
+run_uuid: 2c32dee8c27b4eda9eede69b09d3c361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873248027
+status: 3
+tags: []
+user_id: shind

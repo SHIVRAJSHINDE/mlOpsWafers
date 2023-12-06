@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/f516ab7f4cb147308db7e0ed22e30556/artifacts
+end_time: 1701873174541
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f516ab7f4cb147308db7e0ed22e30556
+run_name: bright-foal-804
+run_uuid: f516ab7f4cb147308db7e0ed22e30556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873169593
+status: 3
+tags: []
+user_id: shind

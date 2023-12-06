@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/48934fdfad724582a801786b346f1de5/artifacts
+end_time: 1701873400362
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48934fdfad724582a801786b346f1de5
+run_name: sedate-eel-732
+run_uuid: 48934fdfad724582a801786b346f1de5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873390851
+status: 3
+tags: []
+user_id: shind

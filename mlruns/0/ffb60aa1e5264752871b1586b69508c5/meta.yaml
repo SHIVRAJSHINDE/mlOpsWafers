@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/ffb60aa1e5264752871b1586b69508c5/artifacts
+end_time: 1701873275734
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ffb60aa1e5264752871b1586b69508c5
+run_name: calm-tern-56
+run_uuid: ffb60aa1e5264752871b1586b69508c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873272260
+status: 3
+tags: []
+user_id: shind

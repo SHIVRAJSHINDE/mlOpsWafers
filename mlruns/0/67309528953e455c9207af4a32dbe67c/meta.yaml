@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/67309528953e455c9207af4a32dbe67c/artifacts
+end_time: 1701873260256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67309528953e455c9207af4a32dbe67c
+run_name: upbeat-grub-889
+run_uuid: 67309528953e455c9207af4a32dbe67c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873256782
+status: 3
+tags: []
+user_id: shind

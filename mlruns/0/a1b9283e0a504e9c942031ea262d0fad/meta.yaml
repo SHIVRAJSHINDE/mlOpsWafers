@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/a1b9283e0a504e9c942031ea262d0fad/artifacts
+end_time: 1701873348484
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1b9283e0a504e9c942031ea262d0fad
+run_name: valuable-yak-521
+run_uuid: a1b9283e0a504e9c942031ea262d0fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873343956
+status: 3
+tags: []
+user_id: shind

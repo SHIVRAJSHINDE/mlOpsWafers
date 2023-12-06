@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/6ba047c7f5bd4d84b88b128c6c765629/artifacts
+end_time: 1701873267998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ba047c7f5bd4d84b88b128c6c765629
+run_name: chill-croc-949
+run_uuid: 6ba047c7f5bd4d84b88b128c6c765629
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873264465
+status: 3
+tags: []
+user_id: shind

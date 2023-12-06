@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/203b0cfcd16447eaacfedbcae9265f6c/artifacts
+end_time: 1701873327925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 203b0cfcd16447eaacfedbcae9265f6c
+run_name: gaudy-dolphin-854
+run_uuid: 203b0cfcd16447eaacfedbcae9265f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873321505
+status: 3
+tags: []
+user_id: shind

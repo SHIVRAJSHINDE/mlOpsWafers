@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/c5177434b57646338711d5fac12e2716/artifacts
+end_time: 1701873199347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5177434b57646338711d5fac12e2716
+run_name: likeable-toad-451
+run_uuid: c5177434b57646338711d5fac12e2716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873196024
+status: 3
+tags: []
+user_id: shind

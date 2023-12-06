@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/96753bc42bb74fef9c8c7d405eaf6a29/artifacts
+end_time: 1701873236738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96753bc42bb74fef9c8c7d405eaf6a29
+run_name: sedate-koi-685
+run_uuid: 96753bc42bb74fef9c8c7d405eaf6a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873233226
+status: 3
+tags: []
+user_id: shind

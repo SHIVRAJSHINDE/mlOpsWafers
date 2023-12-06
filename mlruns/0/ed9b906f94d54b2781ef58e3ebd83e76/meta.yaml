@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/ed9b906f94d54b2781ef58e3ebd83e76/artifacts
+end_time: 1701873229140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed9b906f94d54b2781ef58e3ebd83e76
+run_name: unique-owl-84
+run_uuid: ed9b906f94d54b2781ef58e3ebd83e76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873225919
+status: 3
+tags: []
+user_id: shind

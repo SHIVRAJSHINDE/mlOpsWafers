@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/f13d0dbcc9074d0aabc49620e9840b91/artifacts
+end_time: 1701873243907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f13d0dbcc9074d0aabc49620e9840b91
+run_name: thoughtful-worm-164
+run_uuid: f13d0dbcc9074d0aabc49620e9840b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873240876
+status: 3
+tags: []
+user_id: shind

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MachineLearningProjects/PROJECT/mlOpsWafers/mlruns/0/960c9849530d437bb3e377597c5d6dec/artifacts
+end_time: 1701873184232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 960c9849530d437bb3e377597c5d6dec
+run_name: salty-snipe-1
+run_uuid: 960c9849530d437bb3e377597c5d6dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701873180151
+status: 3
+tags: []
+user_id: shind
